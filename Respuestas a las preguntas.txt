@@ -1,0 +1,11 @@
+¿Cuantas galaxias cumplen con este criterio?
+-34 galaxias cumplen con este criterio
+¿A que tipos de galaxias corresponden?
+-A galaxias tipo Sph y una dE
+¿Cómo se compara la distribución de los tipos de galaxias 
+con los tipos de galaxias para las que las distancias se midieron con 
+cualquiera de los otros métodos?
+-Para compararlas hay que usar logica booleana, es decir,
+ocupar signos de comparacion(== , < , >), pero ocurre qie
+esto solo se puede llevar a cabo con numeros y no con strings, por lo tanto se
+explicaran las variables.
